@@ -1,0 +1,9 @@
+:root {
+    --cor--de--fundo--container: lightgray;
+    --cor--de--fundo--cabecalho: lightgreen;
+    --cor--de--fundo--corpo: lightblue;
+    --cor--de--fundo--rodape: lightcoral;
+    --font--title: 20px;
+    --font--subtitle: 15px;
+    --font--text: 10px;
+}

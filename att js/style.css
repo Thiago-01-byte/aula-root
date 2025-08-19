@@ -1,0 +1,27 @@
+@import url(variable.css);
+#container {
+    background-color: var(--cor--de--fundo--container);
+
+}
+#header {
+    height: 100px;
+    background-color: var(--cor--de--fundo--cabecalho);
+}
+#body {
+    height: 700px;
+    background-color: var(--cor--de--fundo--corpo);
+}
+#content{
+    font-size: var(--font--size--title);
+    font-family: var(--font--title);
+}
+#content>h2 {
+    font-size: var(--font--subtitle);
+}
+#content>p {
+    font-size: var(--font--text);
+}
+#footer {
+    height: 100px;
+    background-color: var(--cor--de--fundo--rodape);
+}
